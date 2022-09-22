@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="12-Procesos-Secundario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/12_Procesos_Secundario_jar</output-path>
+    <root id="archive" name="12-Procesos-Secundario.jar">
+      <element id="module-output" name="12-Procesos-Secundario" />
+    </root>
+  </artifact>
+</component>
